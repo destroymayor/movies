@@ -19,8 +19,9 @@
     "paths": {
       "@/components/*": ["src/components/*"],
       "@/context/*": ["src/context/*"],
+      "@/constants/*": ["src/constants/*"],
       "@/hooks/*": ["src/hooks/*"],
-      "@/styles/*": ["src/styles/*"],
+      "@/lib/*": ["src/lib/*"],
       "@/utils/*": ["src/utils/*"],
       "@/public/*": ["public/*"]
     }
